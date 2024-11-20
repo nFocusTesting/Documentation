@@ -1,0 +1,22 @@
+{
+  "name": "circ-ref-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "module": "es2020",
+  "devDependencies": {
+    "@playwright/test": "^1.47.1",
+    "@eslint/js": "^9.10.0",
+    "eslint": "^9.10.0",
+    "dotenv": "^16.4.5",
+    "typescript": "^5.6.2",
+    "typescript-eslint": "^8.6.0",
+    "@types/node": "^22.5.5",
+    "madge": "^8.0.0"
+  }
+}

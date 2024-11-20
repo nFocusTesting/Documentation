@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "types": ["@playwright/test", "node"],
+    "baseUrl": ".",
+    "paths": { "@pages": ["pages/index"] }
+  }
+}
